@@ -1,1 +1,1 @@
-# lection6
+# lecture6
